@@ -9,8 +9,8 @@ Godot allows extending the engine in a modular way. C++ modules enable adding fu
 
 ```
 modules/
-└── summator/
-    ├── config.py
+--------| summator/
+    --------| config.py
     ├── register_types.h
     ├── register_types.cpp
     ├── summator.h
