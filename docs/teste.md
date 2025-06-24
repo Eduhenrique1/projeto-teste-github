@@ -7,16 +7,7 @@ Godot allows extending the engine in a modular way. C++ modules enable adding fu
 
 ## Module Structure
 
-```
-modules/
---------| summator/
-    --------| config.py
-    ├── register_types.h
-    ├── register_types.cpp
-    ├── summator.h
-    ├── summator.cpp
-    └── SCsub
-```
+Unable to save the document. Please try again
 
 ## Main Files
 
