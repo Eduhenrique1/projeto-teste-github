@@ -44,7 +44,7 @@ public:
 #endif
 ```
 
-### summator.cpp
+## summator.cpp
 
 ```cpp
 #include "summator.h"
